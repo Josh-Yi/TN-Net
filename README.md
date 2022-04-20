@@ -1,3 +1,3 @@
 # TN-Net
 
-TBD
+A 3D EIT Reconstruction Algorithm.
